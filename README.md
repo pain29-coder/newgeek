@@ -1,5 +1,5 @@
 # newgeek
 
-This repo is only for testing.
-Testing Rebase
-Second commit
+First Test
+Second Test
+Third Test
